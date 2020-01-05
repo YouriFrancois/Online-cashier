@@ -1,0 +1,154 @@
+.holder {
+  position: relative;
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 500px;
+  width: 1000px;
+  background-color: gray;
+}
+.header {
+
+  
+  height: 2%;
+  
+}
+.headerh1{
+  background-color: yellow;
+  border: 2px solid blue;
+  height: 35px;
+}
+
+.leftView1 {
+  background-color: white;
+  position: absolute;
+  margin-top: 3%;
+  left: 0.5%;
+  width: 15%;
+  height: 90%;
+
+  /* background-color: green;*/
+}
+.midletView2 {
+  /*background-color: red;*/
+  position: relative;
+  background-color: white;
+  position: absolute;
+  left: 16%;
+  width: 60%;
+  height: 90%;
+  margin-top: 3%;
+}
+
+.rightView3 {
+  /* background-color: blue;*/
+  background-color: white;
+  margin-top: 30px;
+  position: absolute;
+  right: 0.5%;
+
+  width: 22%;
+  height: 80%;
+  margin-top: 3%;
+  overflow: scroll;
+  text-align: left;
+  word-spacing: 100px;
+}
+
+.rightView4 {
+  position: absolute;
+  width: 22%;
+  height: 10%;
+  background-color: green;
+
+  right: 0.5%;
+  bottom: 1.9%;
+}
+/*=========================================================================*/
+
+/*==================================================================================*/
+/*================  Left View ======================================================*/
+/*==================================================================================*/
+
+.fistLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: turquoise;
+  height: 50px;
+  border: 5px solid blue;
+}
+
+.secondLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  height: 50px;
+  border: 2px solid blue;
+}
+
+.thirdLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  height: 50px;
+  border: 5px solid blue;
+}
+
+.fourthLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  height: 50px;
+  border: 5px solid blue;
+}
+
+.fiftLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  height: 50px;
+  border: 5px solid blue;
+}
+.sixLine {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  height: 50px;
+  border: 2px solid blue;
+}
+/*==================================================================================*/
+/*================= Midle View =====================================================*/
+/*==================================================================================*/
+.midleLabel {
+  position: relative;
+  top: px;
+  margin-left: 19px;
+  margin-right: 20px;
+  margin-top: 0px;
+  border: 2px solid blue;
+  background-color: yellow;
+  padding: 5px;
+
+  /*
+ top:17%;
+  padding: 25px;
+  background-color:yellow;
+  margin: 30px;
+  border: 6px solid green;
+ 
+  */
+}
+
+.divlabel {
+  position: relative;
+margin:20px;
+ 
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  float:left;   
+
+}
+
+/*==================================================================================*/
+/*================ center view =====================================================*/
+/*==================================================================================*/
